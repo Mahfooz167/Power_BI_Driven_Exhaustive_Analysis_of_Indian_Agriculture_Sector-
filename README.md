@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 Welcome to the **Power BI Driven Exhaustive Analysis of the Indian Agriculture Sector** project, developed for EY GDS. This initiative harnesses the power of data analytics to provide actionable insights that drive sustainable growth in the agriculture sector, ensuring profitability for both companies and farmers.
 
-![Project Overview](path/to/your/project-overview-image.jpg)
+![Project Overview]([[path/to/your/project-overview-image.jpg](https://images.app.goo.gl/QAXqR2tJhmhTcvJ2A](https://images.app.goo.gl/GsMRCM3DtLqQCA147))
 
 ---
 
