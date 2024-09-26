@@ -15,7 +15,7 @@ In a rapidly evolving agricultural landscape, this project tailors sustainable g
 - **Policy Advocacy:** Shaping frameworks that benefit farmer livelihoods and enhance industry sustainability.
 - **Operational Efficiency:** Streamlining processes to drive cost savings and increase profitability.
 
-![Farmers](path/to/your/farmers-image.jpg)
+![Farmers](https://img.freepik.com/premium-photo/growth-graph-green-business-compared-year-green-community-new-green-business-plan-goals-opportunity-environmental-sustainability-target_974729-140686.jpg?w=996)
 
 ---
 
