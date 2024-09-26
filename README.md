@@ -67,6 +67,9 @@ Our analysis reveals crucial insights into the Indian agriculture sector, highli
 - **MSP Impact:** A clear correlation between MSP implementation and crop production levels, emphasizing the need for fair pricing.
 - **Sustainability Practices:** Best practices from leading states such as Kerala, Andhra Pradesh, and Tamil Nadu, informing strategies for long-term resilience.
 
+![Result](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItiRpa0pkWA6jeK1BWwbVLI4qTofKhnWfIw&s)
+![image](https://github.com/user-attachments/assets/262c27a4-6b57-43b3-b5ca-291a2f83d979)
+
 ---
 
 ## 🎯 Conclusion
