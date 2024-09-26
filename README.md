@@ -25,10 +25,9 @@ Amidst ongoing farmers' protests for Minimum Support Price (MSP) and declining c
 - **Optimize pricing strategies**
 - **Influence policy frameworks**
 
-![MSP Impact](path/to/your/msp-image.jpg)
 ![MSP Impact](https://i.ytimg.com/vi/h7e1kFBeCko/maxresdefault.jpg)
 ![जय जवान जय किसान](https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/18/full/1610991010-2147.jpg?im=FeatureCrop,size=(826,465))
-
+![MSP Impact]([path/to/your/msp-image.jpg](https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/26/full/1611642645-5598.jpg?im=FeatureCrop,size=(826,465)))
 Our goal is to establish a sustainable agricultural ecosystem that balances industry profitability with farmers' welfare, fostering a harmonious relationship among all stakeholders.
 
 ---
