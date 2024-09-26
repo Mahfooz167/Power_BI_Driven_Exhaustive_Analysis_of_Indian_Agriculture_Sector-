@@ -47,7 +47,7 @@ The project employs Power BI’s advanced visualization and analytics capabiliti
 - **Data-Driven Recommendations:** Insights that empower stakeholders to optimize agricultural practices.
 - **Strategic Decision-Making:** Tools to enhance operational efficiency and productivity.
 
-![Data Analytics](path/to/your/data-analytics-image.jpg)
+![Data Analytics](https://barcelona.tbs-education.com/content/uploads/sites/7/2023/12/data-analytics-marketing-1-compressed.jpg)
 
 ---
 
