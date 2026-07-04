@@ -48,7 +48,7 @@ The project employs Power BI’s advanced visualization and analytics capabiliti
 - **Strategic Decision-Making:** Tools to enhance operational efficiency and productivity.
 
 ![Data Analytics](https://barcelona.tbs-education.com/content/uploads/sites/7/2023/12/data-analytics-marketing-1-compressed.jpg)
-
+PLEASE OPEN THE PBIX FILE TO VIEW THE POWER BI DASHBOARD
 ---
 
 ## 🛠️ Technology Stack
